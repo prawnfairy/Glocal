@@ -6,11 +6,11 @@
 ![CSS](https://img.shields.io/badge/CSS-18.5%25-blue)
 ![HTML](https://img.shields.io/badge/HTML-7.1%25-red)
 
-## 📋 Overview
+## Overview
 
 GLOCAL is a web-based stock analysis dashboard designed for traders who need to track both global and local (Malaysian) stock market indices and individual stocks. The platform provides real-time monitoring, predictive analytics, and interactive charting capabilities to help traders make informed investment decisions.
 
-## ✨ Features
+## Features
 
 - **Dynamic Watchlist**: Create and manage a personalized watchlist of stocks
 - **Real-Time Stock Data**: Browse and search through a comprehensive database of 70+ stocks including:
@@ -40,7 +40,7 @@ GLOCAL is a web-based stock analysis dashboard designed for traders who need to 
   - Historical data simulation for analysis
   - Trend analysis and forecasting
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Modern web browser (Chrome, Firefox, Safari, Edge)
@@ -65,7 +65,7 @@ GLOCAL is a web-based stock analysis dashboard designed for traders who need to 
    - View your watchlist in the left panel
    - Monitor charts with different timeframes
 
-## 📊 Dashboard Components
+## Dashboard Components
 
 ### 1. Watchlist Panel
 - Displays your selected stocks
@@ -93,7 +93,7 @@ GLOCAL is a web-based stock analysis dashboard designed for traders who need to 
 - One-click add/remove from watchlist
 - Price and change percentage display
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 Glocal/
@@ -103,14 +103,14 @@ Glocal/
 └── README.md         # This file
 ```
 
-## 🔧 Technology Stack
+## Technology Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **Charts**: Chart.js 3.9.1
 - **Design**: Responsive CSS Grid/Flexbox
 - **Data**: Mock stock data (70+ stocks)
 
-## 💡 How It Works
+## How It Works
 
 ### Price Prediction Algorithm
 The app uses **simple linear regression** to predict future stock prices:
@@ -131,33 +131,7 @@ The app uses **simple linear regression** to predict future stock prices:
 - Charts refresh on watchlist changes
 - Search filtering in real-time
 
-## 📱 Responsive Design
-
-The dashboard is fully responsive with breakpoints for:
-- **Desktop** (1200px+): Full multi-column layout
-- **Tablet** (768px - 1199px): Adjusted spacing
-- **Mobile** (<768px): Single-column stack layout
-
-## 🎨 Styling Features
-
-- **Color Scheme**:
-  - Dark blue background (#0c2244)
-  - White content panels with subtle shadows
-  - Green for positive changes
-  - Red for negative changes
-
-- **Interactive Elements**:
-  - Hover states for better UX
-  - Smooth transitions and animations
-  - Clear visual feedback for user actions
-
-- **Accessibility**:
-  - Clear typography hierarchy
-  - High contrast ratios
-  - Keyboard navigable
-  - Semantic HTML structure
-
-## 📈 Stock Database
+## Stock Database
 
 ### Malaysian Stocks
 - KLCI Index, FTSE Bursa, Maxis, GAMUDA, PETRONAS, Axiata, CIMB, Maybank, Public Bank, and more
@@ -174,7 +148,7 @@ The dashboard is fully responsive with breakpoints for:
 - KLCI Index (Malaysia)
 - FTSE Bursa (Malaysia)
 
-## 🔮 Future Enhancement Ideas
+## Future Enhancements
 
 - [ ] Real API integration (Yahoo Finance, Alpha Vantage, etc.)
 - [ ] User authentication and persistent watchlists
@@ -187,37 +161,11 @@ The dashboard is fully responsive with breakpoints for:
 - [ ] Alert system for price targets
 - [ ] More sophisticated ML-based predictions
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs and issues
-- Suggest new features
-- Submit pull requests with improvements
-- Improve documentation
-
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
 
-## 👨‍💻 Author
-
-**prawnfairy** - Stock Analysis Dashboard Creator
-
-## 📞 Support
-
-For issues, questions, or suggestions, please open an issue on the GitHub repository.
-
----
-
-## 🎯 Key Metrics
-
-- **70+ Stocks**: Comprehensive stock database covering multiple markets
-- **Real-time Charts**: Interactive visualization with multiple timeframes
-- **Smart Search**: Filter 70+ stocks instantly
-- **Predictive Analysis**: AI-powered price forecasting
-- **Responsive**: Works seamlessly on desktop, tablet, and mobile
-
-## 🌟 Why Use GLOCAL?
+## Why Use GLOCAL?
 
 ✅ Simple and intuitive interface  
 ✅ No account creation required  
@@ -228,5 +176,4 @@ For issues, questions, or suggestions, please open an issue on the GitHub reposi
 ✅ Works offline (after first load)  
 
 ---
-
 **Start analyzing stocks today with GLOCAL!** 📊💹
